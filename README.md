@@ -1,3 +1,3 @@
 # popoff.github.io
 
-Just an interactuve banner web page designed for big screens, made with HTML and CSS only (no JavaScript).
+Just a responsive interactive banner demo designed for big screens. Made with HTML and CSS flexbox. And with no JS.
